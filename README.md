@@ -14,9 +14,9 @@
 
 # Cart Management
  Selected items are added to a shopping cart where users can:
- View their choices
- Adjust quantities
-Check the subtotal
+ View their choices.
+ Adjust quantities.
+ Check the subtotal.
  Cart data is preserved even when users navigate through different pages.
  Order Placement
  Users can review their cart and place an order using a QR code for payment.
@@ -44,17 +44,17 @@ git clone [https://github.com/YOUR_USERNAME/food-delivery-app.git](https://githu
 
 Navigate into the project directory:
 
-terminal
+Use terminal
 Copy code
 cd client
 
 # Install dependencies:
-terminal
+Use terminal
 Copy code
 npm install
 
 # Start the development server:
-terminal
+Use terminal
 Copy code
 npm start
 Open the app in your browser at http://localhost:3000.
