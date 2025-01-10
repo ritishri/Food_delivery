@@ -12,7 +12,7 @@
 # Menu Browsing
   Users can explore an extensive food menu with detailed descriptions. Each item includes an "Add to Cart" button for quick selection.
 
-#Cart Management
+# Cart Management
  Selected items are added to a shopping cart where users can:
  View their choices
  Adjust quantities
