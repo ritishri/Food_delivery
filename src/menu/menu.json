@@ -1,0 +1,21 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "category": "Main Course",
+      "price": 199,
+      "image":"images/pizza.jpg",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Momos",
+      "category": "Desserts",
+      "price": 70,
+      "image":"images/momos.jpg",
+      "availability": true
+    }
+  ]
+  
